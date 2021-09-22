@@ -74,7 +74,6 @@ namespace AppPhongKham.Views
             this.bÁOCÁOToolStripMenuItem});
             this.menuStrip2.Location = new System.Drawing.Point(135, 31);
             this.menuStrip2.Name = "menuStrip2";
-            this.menuStrip2.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
             this.menuStrip2.Size = new System.Drawing.Size(978, 33);
             this.menuStrip2.TabIndex = 3;
             this.menuStrip2.Text = "menuStrip2";
@@ -90,30 +89,35 @@ namespace AppPhongKham.Views
             this.benhnhan.Name = "benhnhan";
             this.benhnhan.Size = new System.Drawing.Size(153, 29);
             this.benhnhan.Text = "BỆNH NHÂN";
+            this.benhnhan.Click += new System.EventHandler(this.benhnhan_Click);
             // 
             // phieukham
             // 
             this.phieukham.Name = "phieukham";
             this.phieukham.Size = new System.Drawing.Size(158, 29);
             this.phieukham.Text = "PHIẾU KHÁM";
+            this.phieukham.Click += new System.EventHandler(this.phieukham_Click);
             // 
             // thuoc
             // 
             this.thuoc.Name = "thuoc";
             this.thuoc.Size = new System.Drawing.Size(101, 29);
             this.thuoc.Text = "THUỐC";
+            this.thuoc.Click += new System.EventHandler(this.thuoc_Click);
             // 
             // toathuoc
             // 
             this.toathuoc.Name = "toathuoc";
             this.toathuoc.Size = new System.Drawing.Size(152, 29);
             this.toathuoc.Text = "TOA THUỐC";
+            this.toathuoc.Click += new System.EventHandler(this.toathuoc_Click);
             // 
             // hoadon
             // 
             this.hoadon.Name = "hoadon";
             this.hoadon.Size = new System.Drawing.Size(126, 29);
             this.hoadon.Text = "HÓA ĐƠN";
+            this.hoadon.Click += new System.EventHandler(this.hoadon_Click);
             // 
             // bÁOCÁOToolStripMenuItem
             // 
@@ -141,7 +145,6 @@ namespace AppPhongKham.Views
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "TrangChu";
             this.Text = "QUẢN LÝ PHÒNG KHÁM TƯ NHÂN";
-            this.Load += new System.EventHandler(this.TrangChu_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.menuStrip2.ResumeLayout(false);
             this.menuStrip2.PerformLayout();
