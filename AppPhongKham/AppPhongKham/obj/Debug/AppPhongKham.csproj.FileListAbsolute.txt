@@ -1,0 +1,10 @@
+C:\Users\macth\source\repos\AppPhongKham\AppPhongKham\bin\Debug\AppPhongKham.exe.config
+C:\Users\macth\source\repos\AppPhongKham\AppPhongKham\bin\Debug\AppPhongKham.exe
+C:\Users\macth\source\repos\AppPhongKham\AppPhongKham\bin\Debug\AppPhongKham.pdb
+C:\Users\macth\source\repos\AppPhongKham\AppPhongKham\obj\Debug\AppPhongKham.csproj.AssemblyReference.cache
+C:\Users\macth\source\repos\AppPhongKham\AppPhongKham\obj\Debug\AppPhongKham.Properties.Resources.resources
+C:\Users\macth\source\repos\AppPhongKham\AppPhongKham\obj\Debug\AppPhongKham.csproj.GenerateResource.cache
+C:\Users\macth\source\repos\AppPhongKham\AppPhongKham\obj\Debug\AppPhongKham.csproj.CoreCompileInputs.cache
+C:\Users\macth\source\repos\AppPhongKham\AppPhongKham\obj\Debug\AppPhongKham.exe
+C:\Users\macth\source\repos\AppPhongKham\AppPhongKham\obj\Debug\AppPhongKham.pdb
+C:\Users\macth\source\repos\AppPhongKham\AppPhongKham\obj\Debug\AppPhongKham.Views.TrangChu.resources
